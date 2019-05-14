@@ -1,0 +1,120 @@
+
+
+
+
+/*  Navbar Social icons  */
+.navIcons {
+    float: right;
+    text-align: right;
+
+
+}
+
+
+/*  Customize google font  */
+.titleFont {
+    font-family: 'Sofia', cursive;
+    font-family: 'Great Vibes', cursive;
+    
+    font-weight: bold;
+
+}
+
+/*  FOr Amour title */
+.titleName {
+
+    font-size: 150px;
+    height: 150px;
+
+
+}
+.titleName2{
+    font-size: 75px;
+   
+}
+
+/*  Navbar */
+.navbarLi {
+    padding: 15px 75px;
+    
+
+}
+/*   About me section*/
+
+/*  background for about me section*/
+#aboutMesec{
+    background-image: url("./pics/Wallpaper/gridbackground3.png");
+
+
+
+}
+
+/* My customer border */
+.customerBorder {
+    border-width: 30px;
+    border-style: solid;
+    color: #dee2e6!important;
+    
+} 
+
+/*  customer border for Message board*/
+.messageBoardBackground {
+    background-color:white;
+    opacity: 0.5;
+    margin-top: 50px;
+    padding: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+
+}
+
+/*  Veritcally Center About me message */
+.verticalCenter {
+    padding-top: 70px;
+
+}
+
+.buttonPaddingLeft {
+    padding-left: 40px;
+
+}
+/*  resize images */
+.resizeImage{
+    width: 250px;
+    height: 200px;
+}
+
+.zoomIn:hover{
+  box-shadow:   0 150px 100px 0 rgba(0,0,0,.2), 0 100px 50px 0 rgba(0,0,0,.19);
+    box-shadow: 0 150px 100px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.2);
+    transition:all .55s ease-in-out;
+    
+
+
+
+
+}
+
+
+
+ 
+.footerPadding{
+
+   
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
