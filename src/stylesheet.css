@@ -84,6 +84,19 @@ body{
     padding-left: 40px;
 
 }
+
+/*  Gallery Border */
+.galleryBorderColor{
+    border:1px solid;    
+    border-color: rgba(233, 30, 99, 0.7);
+
+
+}
+
+
+
+
+
 /*  resize images */
 .resizeImage{
     width: 250px;
