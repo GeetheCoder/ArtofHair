@@ -74,6 +74,7 @@ body{
 
 }
 
+
 /*  Veritcally Center About me message */
 .verticalCenter {
     padding-top: 70px;
@@ -92,7 +93,12 @@ body{
 
 
 }
-
+.cardBottomBorder{
+    border-bottom-color: rgba(233, 30, 99, 0.7);
+}
+.cardTopBorder{
+    border-top-color: rgba(233, 30, 99, 0.7);
+}
 
 
 
