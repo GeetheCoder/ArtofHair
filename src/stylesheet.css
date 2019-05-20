@@ -1,6 +1,16 @@
+ 
 
 
+.navbar-tint{
+    background-color: #9999cc!important;
+}
+.backgroundColor{
+    background-color: #ccccff!important;
+}
+.blueShadow{
+    background-color: #6699cc!important;
 
+}
 
 /*  Navbar Social icons  */
 .navIcons {
@@ -22,9 +32,17 @@
 
 body{
     font-family: 'Open Sans', sans-serif;
+    background-color: white;
+
 }
 
 /*  FOr Amour title */
+
+#headliner{
+    margin-bottom: 0px!important;
+
+
+}
 .titleName {
 
     font-size: 150px;
@@ -57,13 +75,13 @@ body{
 .customerBorder {
     border-width: 30px;
     border-style: solid;
-    color: #dee2e6!important;
+    color: white!important;
     
 } 
 
 /*  customer border for Message board*/
 .messageBoardBackground {
-    background-color:white;
+    color:white;
     opacity: 0.5;
     margin-top: 50px;
     padding: 10px;
@@ -71,6 +89,11 @@ body{
     padding-left: 20px;
     padding-right: 20px;
     
+
+}
+.whiteletters{
+    color: white!important;
+
 
 }
 
@@ -86,18 +109,23 @@ body{
 
 }
 
+#gallerySec{
+    background-color: white!important;
+}
+
 /*  Gallery Border */
 .galleryBorderColor{
     border:4px solid;    
-    border-color: rgba(233, 30, 99, 0.7);
+    border-color: #6699cc;
+    
 
 
 }
 .cardBottomBorder{
-    border-bottom-color: rgba(233, 30, 99, 0.7);
+    border-bottom-color:  #6699cc ;
 }
 .cardTopBorder{
-    border-top-color: rgba(233, 30, 99, 0.7);
+    border-top-color:  #6699cc;
 }
 
 

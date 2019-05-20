@@ -10,3 +10,4 @@ Updates 05/13/2019
 Updates 05/19/2019
 ***** Updated Gallery*********
 ***** Updated card colors *********
+***** Updated  colors *********
