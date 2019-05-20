@@ -6,3 +6,7 @@
 Updates 05/13/2019
 ***** Updated color to page *********
 ***** Updated fonts *********
+
+Updates 05/19/2019
+***** Updated Gallery*********
+***** Updated card colors *********
