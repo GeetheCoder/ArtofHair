@@ -72,6 +72,11 @@ body{
 
 
 }
+/* My message board */
+#messageBoard{
+     top: 50px;
+
+}
 
 /* My customer border */
 .customerBorder {
