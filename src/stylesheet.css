@@ -138,8 +138,8 @@ body{
 }
 
 .zoomIn:hover{
-  box-shadow:   0 150px 100px 0 rgba(0,0,0,.2), 0 100px 50px 0 rgba(0,0,0,.19);
-    box-shadow: 0 150px 100px 0 rgba(0,0,0,.2), 0 6px 20px 0 rgba(0,0,0,.2);
+  box-shadow:   0 8px 16px 0 #6699cc, 0 6px 20px 0 #6699cc;
+    box-shadow: 0 8px 16px 0 #6699cc, 0 6px 20px 0 #6699cc;
     transition:all .55s ease-in-out;
     
 
