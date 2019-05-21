@@ -32,7 +32,8 @@
 
 body{
     font-family: 'Open Sans', sans-serif;
-    background-color: white;
+    background-color: #ccccff!important;
+  
 
 }
 
@@ -65,7 +66,8 @@ body{
 
 /*  background for about me section*/
 #aboutMesec{
-    background-image: url("./pics/Wallpaper/gridbackground3.png");
+  /*  background for background-image: url("./pics/Wallpaper/gridbackground3.png");about me section*/ 
+  background-color: #ccccff!important;
 
 
 
@@ -75,7 +77,7 @@ body{
 .customerBorder {
     border-width: 30px;
     border-style: solid;
-    color: white!important;
+    color: #ccccff!important;
     
 } 
 
@@ -110,17 +112,22 @@ body{
 }
 
 #gallerySec{
-    background-color: white!important;
+    background-color: white !important;
 }
 
 /*  Gallery Border */
 .galleryBorderColor{
     border:4px solid;    
     border-color: #6699cc;
+}
+
+.galleryTitle{
+    font-size: 100px;
+}
     
 
 
-}
+
 .cardBottomBorder{
     border-bottom-color:  #6699cc ;
 }
