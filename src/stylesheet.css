@@ -140,6 +140,37 @@ body{
     border-top-color:  #6699cc;
 }
 
+.fa-hair-1{
+    background: url(./Icons/makeup-mirror-svgrepo-com.svg);
+    color: #6699cc;
+    height: 40px;
+    width: 40px;
+    display: block;
+    margin: 0 auto;
+
+
+
+
+}
+.fa-scissors{
+    background: url(./Icons/salon.svg);
+    height: 40px;
+    width: 40px;
+    display: block;
+    margin: 0 auto;
+
+
+}
+.fa-hairdryer{
+    background: url(./Icons/barbershop.svg);
+    color: #6699cc;
+    height: 40px;
+    width: 40px;
+    display: block;
+    margin: 0 auto;
+
+
+}
 
 
 
